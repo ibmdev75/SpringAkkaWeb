@@ -422,7 +422,7 @@ footer ul.last {
 }
 
 .bloc-atout {
-    text-align: center;
+    /**text-align: center;**/
 }
 
 .bloc-atout .item-content{    
@@ -431,8 +431,8 @@ footer ul.last {
     background-repeat: no-repeat;
 }
 
-.bloc-atout.cloud .item-content{    
-    background-image: url('../images/bandeau_court_cloud.jpg');
+.bloc-atout.faq .item-content{
+    background-image: url('../images/faq.jpg');
 }
 
 

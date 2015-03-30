@@ -3,7 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- zoom
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
     <meta name="HandheldFriendly" content="true">
     <link href="/SpringAkkaWeb/css/font-awesome.min.css" rel="stylesheet">
     <link href="/SpringAkkaWeb/css/layout_Theme_Black.css" rel="stylesheet">
@@ -139,8 +142,28 @@
         </div>
     </a>
 </div>
+    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+    <div class="bloc-atout faq">
+
+        <div class="atout-item">
+            <div class="item-layer" style="opacity: 1;">
+                <i class="fa fa-comment-o"></i><br>
+                <p>Foire aux questions</p>
+            </div>
+            <div class="item-content" style="background-position: 0% 0px;">
+                <!--<i class="fa fa-comment-o"></i><br>-->
+                <p>FAQ</p>
+
+            </div>
+        </div>
+        </div>
+
+    </div>
 </div>
+
 </div>
+
+
 
 <!-- Accordion -->
 <div class="container">
